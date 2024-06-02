@@ -11,6 +11,11 @@ public class Main {
 		System.out.println("RebaseFromHabiba");
 		System.out.println("HelloFromMaster5");
 		System.out.println("MasterRemote");
+<<<<<<< Upstream, based on origin/HabibaBranch
+=======
+		System.out.println("MasterRebaseTry");
+		
+>>>>>>> f8a96b8 Resolve Merge
 
 	}
 
